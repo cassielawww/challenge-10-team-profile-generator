@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cassielawww"
+  },
+  "author": "Cassie Law",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "css": "^3.0.0",
+    "inquirer": "^8.2.4"
+  },
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
